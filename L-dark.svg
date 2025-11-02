@@ -18,7 +18,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#b3b3b3"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2"
-     inkscape:cx="145.25"
-     inkscape:cy="153.5"
+     inkscape:cx="55.25"
+     inkscape:cy="98.5"
      inkscape:window-width="2560"
      inkscape:window-height="1360"
      inkscape:window-x="0"
@@ -102,7 +102,7 @@
      inkscape:groupmode="layer"
      id="layer1"><g
        id="g1046"
-       transform="matrix(0.70289005,0,0,0.70289005,-30.812598,-4.7755614)"><path
+       transform="matrix(0.84616335,0,0,0.84616335,-43.996469,-12.652184)"><path
          style="fill:#c5c5c5;fill-opacity:1;stroke:none;stroke-width:4.50001;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="M 105,70.890152 H 83.971714 v 23.058501 l 1.141687,0.699457 0.574085,-0.507475 z"
          id="path1045"
